@@ -1,4 +1,4 @@
-name: github_search
+name: search_github_bloc
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -20,6 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   dio: ^2.0.11
+  rxdart: ^0.23.1
 
 
 
